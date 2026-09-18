@@ -2,9 +2,9 @@
 
 将英文小写字母 `a-z` 转为 `A-Z`，中文、数字、标点、空格、换行和其他字符保持不变。不会额外添加换行。
 
-可执行文件位于桌面 `uppercase.exe`。使用 Windows 自带的 .NET Framework 4.x，不需要安装 Python。
+使用 Windows 自带的 .NET Framework 4.x，不需要安装 Python。
 
-在桌面打开 PowerShell：
+打开 PowerShell：
 
 ```powershell
 .\uppercase.exe 'Hello 世界 123!'
